@@ -1,0 +1,8 @@
+1) Envio de dois pacotes de tamanhos diferentes:
+Foram criados dois objetos da classe UdpEchoClientHelper para simular os tamanhos diferentes, bastou alterar o atributo Packet Size
+
+2) Mudar a taxa de transmissão:
+Similar ao processo descrito no item anterior, porém o que foi alterado foi o objeto da classe PointToPointHelper, alterando o seu atributo "Data Rate". 
+
+Observações gerais:
+O código referente ao desafio já realiza os dois desafios.
