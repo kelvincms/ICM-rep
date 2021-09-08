@@ -1,0 +1,5 @@
+1) Envio de três pacotes de STAs diferentes
+Foi possivel realizar isto, reinstanciando o objeto da classe Client Container, alterando suas configurações, como é visível no código disponibilizado
+
+2) Uso do NetAnim para verificar o movimento dos usuários
+Também é possível checar o uso do NetAnim no código, através da classe AnimationInterface, também é possível checar pelos cabeçalhos utilizados
