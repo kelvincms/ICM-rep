@@ -1,0 +1,11 @@
+1) Envio de dois pacotes de tamanhos diferentes sem criar novos objetos.
+
+
+2) Aumentar número de nós via linha de comando.
+Para alterar o número de nós, via linha de comando, basta adicionar o comando "--nCsma", como apresentado no exemplo a seguir
+ex: ./waf ./waf --run "scratch/mysecond --nCsma=4"
+
+3) Uso do tcpdump para insperção de arquivos pcap.
+Para utilizar o tcpdump: tcpdump -nn -tt -r nome_do_arquivo.pcap. Exemplo abaixo
+ex: tcpdump -nn -tt -r second-1-0.pcap
+
