@@ -1,0 +1,55 @@
+FlowID: 1 (UDP 192.168.0.2/49153 --> 192.168.0.8/1025)
+	TX bitrate: 529.08 kbit/s
+	RX bitrate: 533.77 kbit/s
+	Mean Delay: 2.25 ms
+	Packet Loss Ratio: 0.00 %
+FlowID: 2 (UDP 192.168.0.2/49154 --> 192.168.0.13/1025)
+	TX bitrate: 531.70 kbit/s
+	RX bitrate: 553.11 kbit/s
+	Mean Delay: 86.54 ms
+	Packet Loss Ratio: 0.00 %
+FlowID: 3 (UDP 192.168.0.2/49155 --> 192.168.0.3/1025)
+	TX bitrate: 531.70 kbit/s
+	RX bitrate: 535.82 kbit/s
+	Mean Delay: 6.16 ms
+	Packet Loss Ratio: 0.00 %
+FlowID: 4 (UDP 192.168.0.7/49153 --> 192.168.0.8/1025)
+	TX bitrate: 531.70 kbit/s
+	RX bitrate: 553.85 kbit/s
+	Mean Delay: 2.47 ms
+	Packet Loss Ratio: 0.00 %
+FlowID: 5 (UDP 192.168.0.12/49153 --> 192.168.0.18/1025)
+	TX bitrate: 531.70 kbit/s
+	RX bitrate: 542.61 kbit/s
+	Mean Delay: 99.94 ms
+	Packet Loss Ratio: 0.00 %
+FlowID: 6 (UDP 192.168.0.12/49154 --> 192.168.0.18/1025)
+	TX bitrate: 531.70 kbit/s
+	RX bitrate: 541.19 kbit/s
+	Mean Delay: 103.07 ms
+	Packet Loss Ratio: 0.00 %
+FlowID: 7 (UDP 192.168.0.12/49155 --> 192.168.0.3/1025)
+	TX bitrate: 531.70 kbit/s
+	RX bitrate: 584.39 kbit/s
+	Mean Delay: 100.77 ms
+	Packet Loss Ratio: 0.00 %
+FlowID: 8 (UDP 192.168.0.17/49153 --> 192.168.0.8/1025)
+	TX bitrate: 531.70 kbit/s
+	RX bitrate: 549.19 kbit/s
+	Mean Delay: 105.87 ms
+	Packet Loss Ratio: 0.00 %
+FlowID: 9 (UDP 192.168.0.17/49154 --> 192.168.0.8/1025)
+	TX bitrate: 531.70 kbit/s
+	RX bitrate: 544.89 kbit/s
+	Mean Delay: 107.87 ms
+	Packet Loss Ratio: 0.00 %
+FlowID: 10 (UDP 192.168.0.17/49155 --> 192.168.0.13/1025)
+	TX bitrate: 531.70 kbit/s
+	RX bitrate: 609.26 kbit/s
+	Mean Delay: 183.18 ms
+	Packet Loss Ratio: 0.00 %
+FlowID: 11 (UDP 192.168.0.17/49156 --> 192.168.0.13/1025)
+	TX bitrate: 531.70 kbit/s
+	RX bitrate: 605.88 kbit/s
+	Mean Delay: 184.39 ms
+	Packet Loss Ratio: 0.00 %
